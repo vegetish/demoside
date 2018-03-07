@@ -1,0 +1,69 @@
+typography_spectrum: 0.5488316353876144
+color:
+  brandStrength: 0.5213245530612767
+  lightness: 0.4879985849838704
+  saturation: 0.6271573950070888
+  rhythmicContrast: 0.6756091264542192
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.5460661042016
+name: Demoside
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Chat with us
+    id: 42c50372-b13d-4684-a34e-213221b06815
+    type: content
+  - name: Preorder
+    url: 'https://vg.no'
+    type: external
+  - name: mailinglist
+    url: 'https://ap.no'
+    type: external
+  - name: X
+    id: 8cdd4630-0fc5-41d0-91b6-3dd7dec7f3c6
+    type: content
+title: PiedPonics
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/781b063c-dac7-4bd9-a6fd-2bc11d0bc1ea.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/781b063c-dac7-4bd9-a6fd-2bc11d0bc1ea.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: The ultimate growing tower for your home
+purpose:
+  - type: external
+    url: 'http://vg.no'
+    label: Sign up for newsletter
+  - type: internal
+    label: Pre-order now!
+    item: 8cdd4630-0fc5-41d0-91b6-3dd7dec7f3c6
+github: true
