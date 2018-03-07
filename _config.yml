@@ -27,7 +27,7 @@ navigation:
     url: 'https://vg.no'
     type: external
   - name: mailinglist
-    url: 'https://ap.no'
+    url: 'https://aftenposten.no'
     type: external
   - name: X
     id: 8cdd4630-0fc5-41d0-91b6-3dd7dec7f3c6
